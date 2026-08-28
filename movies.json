@@ -1,0 +1,94 @@
+{
+  "movie_sites": [
+    {
+      "id": 1,
+      "name": "IMDb",
+      "url": "https://www.imdb.com",
+      "description": "Internet Movie Database - বিশ্বের সবচেয়ে জনপ্রিয় মুভি ডাটাবেস",
+      "category": "Movie Database",
+      "rating": 5,
+      "features": ["রেটিং", "রিভিউ", "ট্রেইলার", "কাস্ট তথ্য"]
+    },
+    {
+      "id": 2,
+      "name": "The Movie Database (TMDB)",
+      "url": "https://www.themoviedb.org",
+      "description": "সম্পূর্ণ মুভি এবং TV শো ডাটাবেস",
+      "category": "Movie Database",
+      "rating": 4.8,
+      "features": ["এপিআই", "রেটিং", "ছবি", "কাস্ট তথ্য"]
+    },
+    {
+      "id": 3,
+      "name": "Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com",
+      "description": "মুভি এবং টিভি রিভিউ প্ল্যাটফর্ম",
+      "category": "Review Platform",
+      "rating": 4.6,
+      "features": ["ক্রিটিক রেটিং", "অডিয়েন্স রেটিং", "রিভিউ", "কোয়ান্টাম স্কোর"]
+    },
+    {
+      "id": 4,
+      "name": "Netflix",
+      "url": "https://www.netflix.com",
+      "description": "স্ট্রিমিং সার্ভিস - হাজারো মুভি এবং শো",
+      "category": "Streaming Service",
+      "rating": 4.5,
+      "features": ["সাবস্ক্রিপশন", "অরিজিনাল কন্টেন্ট", "অফলাইন ডাউনলোড"]
+    },
+    {
+      "id": 5,
+      "name": "Amazon Prime Video",
+      "url": "https://www.primevideo.com",
+      "description": "আমাজনের স্ট্রিমিং সার্ভিস",
+      "category": "Streaming Service",
+      "rating": 4.4,
+      "features": ["সাবস্ক্রিপশন", "রেন্ট/বাই অপশন", "লাইভ ইভেন্ট"]
+    },
+    {
+      "id": 6,
+      "name": "YouTube",
+      "url": "https://www.youtube.com",
+      "description": "ভিডিও শেয়ারিং প্ল্যাটফর্ম - মুভি ট্রেইলার এবং ক্লিপ",
+      "category": "Video Sharing",
+      "rating": 4.7,
+      "features": ["ফ্রি ট্রেইলার", "ক্লিপস", "বিহাইন্ড দ্য সিনস", "ট্রেইলার"]
+    },
+    {
+      "id": 7,
+      "name": "Disney+",
+      "url": "https://www.disneyplus.com",
+      "description": "ডিজনি এবং পিক্সারের স্ট্রিমিং সার্ভিস",
+      "category": "Streaming Service",
+      "rating": 4.6,
+      "features": ["পরিবার বান্ধব", "অরিজিনাল সিরিজ", "4K কন্টেন্ট"]
+    },
+    {
+      "id": 8,
+      "name": "Letterboxd",
+      "url": "https://letterboxd.com",
+      "description": "সিনেমা ভালোবাসাদের সামাজিক নেটওয়ার্ক",
+      "category": "Social Network",
+      "rating": 4.5,
+      "features": ["রেটিং", "রিভিউ", "লিস্ট", "সোশ্যাল ফিচার"]
+    },
+    {
+      "id": 9,
+      "name": "Metacritic",
+      "url": "https://www.metacritic.com",
+      "description": "মুভি এবং গেমের মেটা স্কোর এগ্রিগেটর",
+      "category": "Review Aggregator",
+      "rating": 4.3,
+      "features": ["মেটা স্কোর", "ইউজার স্কোর", "রিভিউ সামারি"]
+    },
+    {
+      "id": 10,
+      "name": "Fandango",
+      "url": "https://www.fandango.com",
+      "description": "সিনেমা টিকেট বুকিং এবং তথ্য",
+      "category": "Ticketing",
+      "rating": 4.2,
+      "features": ["টিকেট বুকিং", "সিনেমার সময়", "রিভিউ"]
+    }
+  ]
+}
